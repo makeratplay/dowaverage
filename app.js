@@ -10,7 +10,7 @@ $(document).ready(function() {
              
             $('.today').html( formatNumber(dow) );
             var high = 29568.57;
-            var diff = Math.floor(high - dow);
+            var diff = Math.floor(dow - high);
             var percent = Math.floor( (diff / high) * 100) ;
             $( '.precent' ).html( percent + '%' );
             $( '.diff' ).html( diff );
