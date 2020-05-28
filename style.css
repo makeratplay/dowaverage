@@ -1,0 +1,43 @@
+body{
+    background-color: #2b303a;
+    color: #bac1b8;
+}
+
+.high{
+    font-size: large;
+}
+.date{
+    font-size: small;
+    padding-bottom: 10px;
+}
+
+.precent{
+    text-align: center;
+    font-size: 5em;
+}
+
+.diff{
+    text-align: center;
+    font-size: 2em;
+    visibility: hidden;
+}
+
+.today{
+    text-align: center;
+    font-size: 3em;
+}
+
+.todayLabel{
+    text-align: center;
+    font-size: 1em;
+}
+
+.high{
+    text-align: center;
+    font-size: 3em;
+}
+
+.highLabel{
+    text-align: center;
+    font-size: 1em;
+}
