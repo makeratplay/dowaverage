@@ -1,6 +1,6 @@
 # dowaverage
 
-Simple web app to compare the DOW today to Feb 12. 
+Simple web app to compare the DOW today to Feb 12, 2020. 
 
 https://makeratplay.github.io/dowaverage/
 
